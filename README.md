@@ -3,3 +3,5 @@
 Experiments with technology and infrastructure for remote villages
 
 Basic idea is to capture before and after surveys of each project site using a drone (each drone has an associated NFT). 
+
+[First Drone](./Drones/GH_22_01.md)
